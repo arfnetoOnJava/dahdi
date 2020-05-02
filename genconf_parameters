@@ -19,9 +19,9 @@
 
 # 2020
 
-base_exten		4000
+base_exten		40
 fxs_immediate		no
-lc_country		us
+lc_country		br
 context_lines		from-pstn
 context_phones		from-internal
 
